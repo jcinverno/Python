@@ -8,7 +8,7 @@ Created on Sun Jun  5 20:43:29 2022
 from tkinter import *
 from PIL import Image, ImageDraw, ImageFont, ImageTk
 
-URL1 = r"C:\Users\jcinv\OneDrive\Ambiente de Trabalho\Joana\Universidade\Python\Water_Marking\image1.png"
+URL1 = "image1.png"
 
 
 def open_merge(raw, text, color):
